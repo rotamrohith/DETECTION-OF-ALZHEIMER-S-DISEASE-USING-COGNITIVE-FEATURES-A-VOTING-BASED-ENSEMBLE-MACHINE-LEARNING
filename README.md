@@ -1,0 +1,2 @@
+# DETECTION-OF-ALZHEIMER-S-DISEASE-USING-COGNITIVE-FEATURES-A-VOTING-BASED-ENSEMBLE-MACHINE-LEARNING
+Developed a machine learning model for early Alzheimer's disease detection using cognitive assessment features. Applied a voting-based ensemble approach combining multiple classifiers to improve prediction accuracy, reliability, and robustness, enabling timely diagnosis and supporting better clinical decision-making.
